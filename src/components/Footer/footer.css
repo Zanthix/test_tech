@@ -1,5 +1,18 @@
+footer {
+  background-color: grey;
+}
+
 a {
-  color: aqua;
+  display: flex;
+  color: blue;
   font-size: 25px;
-  margin-left: 25%;
+  justify-content: center;
+  margin: 50px;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  font-style: italic;
+  margin-bottom: 0px;
 }/*# sourceMappingURL=footer.css.map */
