@@ -18,4 +18,13 @@
   -o-object-fit: cover;
      object-fit: cover;
   margin: 10px;
+}
+.projects .texts {
+  font-size: 25px;
+  color: red;
+  text-align: center;
+}
+.projects .texts p {
+  color: black;
+  font-size: 17px;
 }/*# sourceMappingURL=home.css.map */
